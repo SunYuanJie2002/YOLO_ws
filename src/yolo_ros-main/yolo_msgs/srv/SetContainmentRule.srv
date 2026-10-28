@@ -1,0 +1,5 @@
+string outer_class
+string inner_class
+---
+bool success
+string message
